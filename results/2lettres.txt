@@ -1,0 +1,3 @@
+Nombre de combinaisons existantes : 52
+Ratio de mots existants parmi les combinaisons : 7.6923076923076925 %
+Mots existants : AH - AI - AL - AN - AS - AU - BD - BP - BU - BY - CE - CI - DE - DO - DU - EH - EN - ET - EU - FI - HO - IL - JE - LA - LE - LU - MA - MI - NE - NI - NU - OC - OH - OK - ON - OR - OS - OU - PU - RE - RI - RU - SA - SI - SU - TA - TE - TU - UN - US - VA - VU
